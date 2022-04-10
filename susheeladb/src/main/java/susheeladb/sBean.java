@@ -1,9 +1,9 @@
 package susheeladb;
 
-public class main {
+public class sBean {
 
 	public static void main(String[] args) {
-	System.out.println("susheel");  
+		System.out.println("Susheel");
 	}
 
 }
